@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aboki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f00e6ea4ad8bbb959db8aa3aec5de488aad764")]
 [assembly: System.Reflection.AssemblyProductAttribute("aboki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aboki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

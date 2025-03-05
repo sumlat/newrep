@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MY LAPTOP\\.nuget\\packages\\": {}
+    "C:\\Users\\OWNER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MY LAPTOP\\Desktop\\aboki\\aboki.csproj",
+      "projectUniqueName": "C:\\Users\\OWNER\\Desktop\\newrep\\aboki.csproj",
       "projectName": "aboki",
-      "projectPath": "C:\\Users\\MY LAPTOP\\Desktop\\aboki\\aboki.csproj",
-      "packagesPath": "C:\\Users\\MY LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MY LAPTOP\\Desktop\\aboki\\obj\\",
+      "projectPath": "C:\\Users\\OWNER\\Desktop\\newrep\\aboki.csproj",
+      "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OWNER\\Desktop\\newrep\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MY LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
